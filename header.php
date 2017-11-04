@@ -1,13 +1,1 @@
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title>Welcome to ProbateEssentials.com!</title>
-		<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
-		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-		<link href="<?php bloginfo('template_url'); ?>/css/fonts.min.css" rel="stylesheet" type="text/css" />
-		<link href="<?php bloginfo('template_url'); ?>/style.css" rel="stylesheet" type="text/css" />
-	</head>
-	<body>
-		<div class="container-fluid">
-			body here
-		</div>
+<html>	<head>		<meta charset="UTF-8">		<title>Welcome to ProbateEssentials.com!</title>        <link rel="apple-touch-icon" sizes="180x180" href="<?php bloginfo('template_url'); ?>/images/favicons/apple-touch-icon.png">        <link rel="icon" type="image/png" sizes="32x32" href="<?php bloginfo('template_url'); ?>/images/favicons/favicon-32x32.png">        <link rel="icon" type="image/png" sizes="16x16" href="<?php bloginfo('template_url'); ?>/images/favicons/favicon-16x16.png">        <link rel="manifest" href="<?php bloginfo('template_url'); ?>/images/favicons/manifest.json">        <link rel="mask-icon" href="<?php bloginfo('template_url'); ?>/images/favicons/safari-pinned-tab.svg" color="#5bbad5">        <meta name="theme-color" content="#ffffff">        <script src="https://use.fontawesome.com/e702519709.js"></script>		<link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />		<link href="<?php bloginfo('template_url'); ?>/css/fonts.min.css" rel="stylesheet" type="text/css" />		<link href="<?php bloginfo('template_url'); ?>/style.css" rel="stylesheet" type="text/css" />	</head>	<body>        <div id="fixed-header">            <div class="container-fluid">                <div class="row">                    <div id="top-logo" class="col-xs-6 col-sm-3">                        <a href="<?php bloginfo('url'); ?>"><img src="<?php bloginfo('template_url'); ?>/images/top-logo.png" width="253" height="110" /></a>                    </div>                    <div id="top-phone" class="col-xs-6 col-sm-3"><i class="fa fa-phone"></i> 801.364.5600</div>                    <div id="top-menu" class="col-sm-6 hidden-xs">menu here</div>                </div>            </div>        </div>		<div class="container-fluid" id="site-wrapper">            <div id="main-content">                main content here
