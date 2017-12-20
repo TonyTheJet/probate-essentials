@@ -55,9 +55,11 @@
 	</div>
 
 	<h4>Do you take fees on contingency?</h4>
-	<p>No. Further, we do not know of one competent attorney who does probate litigation on a contingency fee basis.</p>
-	<p>Probate litigation is not personal injury litigation. Siegfried & Jensen and other personal injury attorneys take cases on a contingency basis, because personal injury cases are almost always fights against a negligent individual's insurance company, and the attorneys' fees are guaranteed to be paid when the insurance company settles.</p>
-	<p>Probate litigators do not have the luxury of having a deep-pocket insurance company paying their fees. For this reason alone, probate litigators must be paid as they do their work.</p>
+    <div>
+        <p>No. Further, we do not know of one competent attorney who does probate litigation on a contingency fee basis.</p>
+        <p>Probate litigation is not personal injury litigation. Siegfried & Jensen and other personal injury attorneys take cases on a contingency basis, because personal injury cases are almost always fights against a negligent individual's insurance company, and the attorneys' fees are guaranteed to be paid when the insurance company settles.</p>
+        <p>Probate litigators do not have the luxury of having a deep-pocket insurance company paying their fees. For this reason alone, probate litigators must be paid as they do their work.</p>
+    </div>
 
 	<h4>How long does probate litigation take?</h4>
 	<div>
