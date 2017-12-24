@@ -1,5 +1,4 @@
 <a class="anchor" id="location"></a>
-<h2 class="no-margin">LOCATION</h2>
 <div class="inner row dark">
 	<div class="col-xs-12 col-sm-6 col-md-5 col-md-offset-1 col-lg-4 col-lg-offset-2 callout">
 		<h3>CALL NOW</h3>

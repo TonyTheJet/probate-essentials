@@ -9,8 +9,8 @@
 		<div id="top-menu" class="col-sm-4 col-md-6 hidden-xs">
 			<ul>
 				<li class="hidden-xs hidden-sm"><a href="<?php bloginfo('url'); ?>">HOME</a></li>
-				<li><a href="#attorney-profiles" class="hidden-xs hidden-sm">ATTORNEYS</a></li>
-				<li class="hidden-xs hidden-sm hidden-md"><a href="#testimonials">TESTIMONIALS</a></li>
+				<li><a href="<?php bloginfo('url'); ?>/attorney-profiles" class="hidden-xs hidden-sm">ATTORNEYS</a></li>
+				<li class="hidden-xs hidden-sm hidden-md"><a href="<?php bloginfo('url'); ?>/testimonials">TESTIMONIALS</a></li>
 				<li class="hidden-xs hidden-sm"><a href="http://www.estate-surprise-planning.com/blog/" target="_blank">BLOG</a></li>
 				<li><a href="#location">LOCATION</a></li>
 				<li>
